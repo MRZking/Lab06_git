@@ -59,7 +59,7 @@ int main(){
 
 }
 cout << "\nCounter: " << count;
-cout << "\nThis is the end of the code." << endl;
+cout << "\nThis is the end of the program." << endl;
 
     return 0;
 }
